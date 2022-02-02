@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dario_Marranti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://linkedin.com/in/darío-marranti-73242840)
 
 
-## Contact & support:
+### Contact & support:
 
 [![Email](https://img.shields.io/badge/dario.marranti@gmail.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
 </br>
