@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![Jenkins](https://img.shields.io/badge/Jenkins-ffffff?style=for-the-badge&logo=Jenkins&logoColor=white&labelColor=101010)]()
 <br />
+[![Jira](https://img.shields.io/badge/jira-ffffff?style=for-the-badge&logo=jira&logoColor=white&labelColor=101010)]()
 [![VisualStudioCode](https://img.shields.io/badge/visualstudiocode-4479A1?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
 [![WSO2](https://img.shields.io/badge/WSO2-FA7343?style=for-the-badge&logo=WSO2&logoColor=white&labelColor=101010)]()
 [![Git](https://img.shields.io/badge/Git-fa7343?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)]()
