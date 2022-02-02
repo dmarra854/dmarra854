@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <br />
 
-## Skills:
+## Skills, Languages and Tools:
 [![Java](https://img.shields.io/badge/JAVA-4479A1?style=for-the-badge&logo=JAVA&logoColor=white&labelColor=101010)]()
 [![Spring](https://img.shields.io/badge/Spring-339933?style=for-the-badge&logo=spring&logoColor=white&labelColor=101010)]()
 [![Oracle](https://img.shields.io/badge/Oracle-F44336?style=for-the-badge&logo=Oracle&logoColor=white&labelColor=101010)]()
