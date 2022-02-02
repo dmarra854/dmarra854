@@ -44,3 +44,8 @@ Here are some ideas to get you started:
 
 [linkedin]: https://linkedin.com/in/darío-marranti-73242840
 
+## Contact & support:
+
+
+[![Email](https://img.shields.io/badge/dario.marranti@gmail.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
+</br>
