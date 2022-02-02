@@ -44,4 +44,4 @@ Here are some ideas to get you started:
  
 
 [linkedin]: https://linkedin.com/in/darío-marranti-73242840
-[linkedin]: https://gmail.com
+[gmail]: https://gmail.com
