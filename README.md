@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <br />
 
 [<img align="left" alt="dmarra854 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="dmarra854 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <br />
 
@@ -43,3 +44,4 @@ Here are some ideas to get you started:
  
 
 [linkedin]: https://linkedin.com/in/darío-marranti-73242840
+[linkedin]: https://gmail.com
