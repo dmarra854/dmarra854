@@ -21,9 +21,11 @@ Here are some ideas to get you started:
 ## Skills, Languages and Tools:
 [![Java](https://img.shields.io/badge/JAVA-4479A1?style=for-the-badge&logo=JAVA&logoColor=white&labelColor=101010)]()
 [![Spring](https://img.shields.io/badge/Spring-339933?style=for-the-badge&logo=spring&logoColor=white&labelColor=101010)]()
+[![Api](https://img.shields.io/badge/API-3d85c6?style=for-the-badge&logo=API&logoColor=white&labelColor=101010)]()
 [![Oracle](https://img.shields.io/badge/Oracle-F44336?style=for-the-badge&logo=Oracle&logoColor=white&labelColor=101010)]()
 [![Postman](https://img.shields.io/badge/Postman-FA7343?style=for-the-badge&logo=Postman&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![HTML](https://img.shields.io/badge/HTML-fa7343?style=for-the-badge&logo=HTML&logoColor=white&labelColor=101010)]()
 <br />
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![PLSQL](https://img.shields.io/badge/PL/SQL-f20808?style=for-the-badge&logo=PL/SQL&logoColor=white&labelColor=101010)]()
