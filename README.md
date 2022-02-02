@@ -31,15 +31,15 @@ Here are some ideas to get you started:
 <br />
 
 ## Skills:
-
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![Spring](https://img.shields.io/badge/Spring-4479A1?style=for-the-badge&logo=spring&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/JAVA-4479A1?style=for-the-badge&logo=JAVA&logoColor=white&labelColor=101010)]()
+[![Oracle](https://img.shields.io/badge/Oracle-4479A1?style=for-the-badge&logo=Oracle&logoColor=white&labelColor=101010)]()
+[![Postman](https://img.shields.io/badge/Postman-4479A1?style=for-the-badge&logo=Postman&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-
-
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+[![Postgresql](https://img.shields.io/badge/POSTGRESQL-4479A1?style=for-the-badge&logo=POSTGRESQL&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
-[![Oracle](https://img.shields.io/badge/oracle-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-
+[![WSO2](https://img.shields.io/badge/WSO2-4479A1?style=for-the-badge&logo=WSO2&logoColor=white&labelColor=101010)]()
 </br>
 And more...
 <br />
