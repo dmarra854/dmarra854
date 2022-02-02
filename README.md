@@ -14,16 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Find me at:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dario_Marranti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://linkedin.com/in/darío-marranti-73242840)
-
-### Connect with me:
-<br />
-
-[<img align="left" alt="dmarra854 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
 
 ### Languages and Tools:
 
@@ -41,7 +32,16 @@ Here are some ideas to get you started:
 <br />
 
 ---
+## Find me at:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dario_Marranti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://linkedin.com/in/darío-marranti-73242840)
+
+### Connect with me:
+<br />
+
+[<img align="left" alt="dmarra854 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
 
  
 
