@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 <br />
 
 ## Skills:
-[![Spring](https://img.shields.io/badge/Spring-4479A1?style=for-the-badge&logo=spring&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/JAVA-4479A1?style=for-the-badge&logo=JAVA&logoColor=white&labelColor=101010)]()
+[![Spring](https://img.shields.io/badge/Spring-339933?style=for-the-badge&logo=spring&logoColor=white&labelColor=101010)]()
 [![Oracle](https://img.shields.io/badge/Oracle-F44336?style=for-the-badge&logo=Oracle&logoColor=white&labelColor=101010)]()
 [![Postman](https://img.shields.io/badge/Postman-FA7343?style=for-the-badge&logo=Postman&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
