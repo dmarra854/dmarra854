@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a professional software developer for more than fifteen years.
+
 <!--
 **dmarra854/dmarra854** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
