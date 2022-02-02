@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 [![Postgresql](https://img.shields.io/badge/POSTGRESQL-4479A1?style=for-the-badge&logo=POSTGRESQL&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![VisualStudioCode](https://img.shields.io/badge/visualstudiocode-4479A1?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
-[![WSO2](https://img.shields.io/badge/WSO2-4479A1?style=for-the-badge&logo=WSO2&logoColor=white&labelColor=101010)]()
+[![WSO2](https://img.shields.io/badge/WSO2-FA7343?style=for-the-badge&logo=WSO2&logoColor=white&labelColor=101010)]()
 </br>
 And more...
 <br />
