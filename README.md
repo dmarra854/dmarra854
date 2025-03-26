@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 [![WSO2](https://img.shields.io/badge/WSO2-FA7343?style=for-the-badge&logo=WSO2&logoColor=white&labelColor=101010)]()
 [![Git](https://img.shields.io/badge/Git-fa7343?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)]()
 [![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white&labelColor=101010)]()
 </br>
 And more...
 <br />
