@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 ## Skills, Languages and Tools
 
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
 ### Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
