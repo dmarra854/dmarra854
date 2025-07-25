@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 
 <br />
+
 ## Skills, Languages and Tools
 
 ### Languages & Frameworks
@@ -33,6 +34,7 @@ Here are some ideas to get you started:
 ### APIs & Testing
 ![API](https://img.shields.io/badge/API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ### Databases
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
