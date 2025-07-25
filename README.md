@@ -19,28 +19,44 @@ Here are some ideas to get you started:
 
 
 <br />
+## Skills, Languages and Tools
 
-## Skills, Languages and Tools:
-[![Java](https://img.shields.io/badge/JAVA-4479A1?style=for-the-badge&logo=JAVA&logoColor=white&labelColor=101010)]()
-[![Spring](https://img.shields.io/badge/Spring-339933?style=for-the-badge&logo=spring&logoColor=white&labelColor=101010)]()
-[![Api](https://img.shields.io/badge/API-3d85c6?style=for-the-badge&logo=API&logoColor=white&labelColor=101010)]()
-[![Oracle](https://img.shields.io/badge/Oracle-F44336?style=for-the-badge&logo=Oracle&logoColor=white&labelColor=101010)]()
-[![Postman](https://img.shields.io/badge/Postman-FA7343?style=for-the-badge&logo=Postman&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-<br />
-[![HTML](https://img.shields.io/badge/HTML-fa7343?style=for-the-badge&logo=HTML&logoColor=white&labelColor=101010)]()
-[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![PLSQL](https://img.shields.io/badge/PL/SQL-f20808?style=for-the-badge&logo=PL/SQL&logoColor=white&labelColor=101010)]()
-[![Postgresql](https://img.shields.io/badge/POSTGRESQL-4479A1?style=for-the-badge&logo=POSTGRESQL&logoColor=white&labelColor=101010)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
-[![Jenkins](https://img.shields.io/badge/Jenkins-ffffff?style=for-the-badge&logo=Jenkins&logoColor=white&labelColor=101010)]()
-<br />
-[![Jira](https://img.shields.io/badge/jira-ffffff?style=for-the-badge&logo=jira&logoColor=white&labelColor=101010)]()
-[![VisualStudioCode](https://img.shields.io/badge/visualstudiocode-4479A1?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
-[![WSO2](https://img.shields.io/badge/WSO2-FA7343?style=for-the-badge&logo=WSO2&logoColor=white&labelColor=101010)]()
-[![Git](https://img.shields.io/badge/Git-fa7343?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)]()
-[![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white&labelColor=101010)]()
+### Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### APIs & Testing
+![API](https://img.shields.io/badge/API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Databases
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![H2](https://img.shields.io/badge/H2-007ACC?style=for-the-badge&logo=h2&logoColor=white)
+
+### DevOps & CI/CD
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+
+### Source Control & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![WSO2](https://img.shields.io/badge/WSO2-FF7300?style=for-the-badge&logo=wso2&logoColor=white)
 </br>
 And more...
 <br />
