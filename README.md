@@ -1,10 +1,10 @@
 ### Hi there, my name is Darío 👋
-> *"When we were young and fast and invincible, the Road Runner was our hero. Impervious to danger, the Road Runner ran without tiring, scooted without fear and beep-beeped coolly like a blue James Bond.  
+> "When we were young and fast and invincible, the Road Runner was our hero. Impervious to danger, the Road Runner ran without tiring, scooted without fear and beep-beeped coolly like a blue James Bond.  
 > But as I look down now from this creaking tower of years, I see it was the Coyote who deserved my admiration. That TV show was never about the Road Runner. It was always about the Coyote.  
 > The Coyote was determined. Determined is a word much misunderstood. Obstinate people are not determined. They merely suffer from too much pride.  
 > Stubborn people are not determined. Stubbornness is willful ignorance. Determination is an unblinking willingness to pay the price as often as it must be paid.  
 > Determination is never losing sight of your objective, no matter what comes along to distract you. Determination is endurance.  
-> How about you? If Failure appears without warning and throws you onto the rocks below, will you happily crawl out of that smoking crater and go back to work?"  *
+> How about you? If Failure appears without warning and throws you onto the rocks below, will you happily crawl out of that smoking crater and go back to work?" 
 >  
 > — Roy H. Williams, author, *The Wizard of Ads*
 <!--
